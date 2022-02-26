@@ -4,13 +4,11 @@
 ## Command's needed to run FLASK API:
 
 **Create virtual environment:**
-```
-py -m venv venv
-```
+- *py -m venv venv*
+
 **Activate virtual environment:**
 ```
-venv\Scripts\activate
-```
+- *venv\Scripts\activate*
 
 **Install Flask:**
 - *pip install flask*
