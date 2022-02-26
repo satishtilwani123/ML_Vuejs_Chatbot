@@ -2,3 +2,6 @@
  ML chatbot deployed in vuejs framework using flask api.
 
 ## Command's needed to run this project:
+
+#### Create virtual environment:
+**py -m venv venv**
