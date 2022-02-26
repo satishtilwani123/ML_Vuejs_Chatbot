@@ -62,4 +62,7 @@
 **Add node_modules**
 - *Copy node_modules folder form (current installed project) & paste it inside our project/ml_project directory.*
 
+**Running /ml_project:**
+- *npm run serve*
+
 *Finally all step's are done, Thank you*
