@@ -6,60 +6,60 @@
 **Create virtual environment:**
 - *py -m venv venv*
 
-#### Activate virtual environment:
-**venv\Scripts\activate**
+**Activate virtual environment:**
+- *venv\Scripts\activate*
 
-#### Install Flask:
-**pip install flask**
+**Install Flask:**
+- *pip install flask*
 
-#### Install sklearn:
-**pip install sklearn**
+**Install sklearn:**
+- *pip install sklearn*
 
-#### Install pandas:
-**pip install pandas**
+**Install pandas:**
+- *pip install pandas*
 
-#### Install nltk
-**pip install nltk**
+**Install nltk:**
+- *pip install nltk*
 
-#### Install numpy
-**pip install numpy**
+**Install numpy:**
+- *pip install numpy*
 
-#### Install tensorflow
-**pip install tensorflow**
+**Install tensorflow:**
+- *pip install tensorflow*
 
-#### It allows the connectivity of api to the external sources:
-**pip install flask_cors**
+**It allows the connectivity of api to the external sources:**
+- *pip install flask_cors*
 
-#### Set the flask app:
-**set FLASK_APP=mlapi**
+**Set the flask app:**
+- *set FLASK_APP=mlapi*
 
-#### Run now:
-**FLask run**
+**Run now:**
+- *FLask run*
 
 ## Command's needed to run VueJs:
 
-#### Go to the Command Prompt:
-**cd Desktop(Place where you want to install dependencies for Vuejs)**
+**Go to the Command Prompt:**
+- *cd Desktop(Place where you want to install dependencies for Vuejs)*
 
-#### Create new vuejs project:
-**vue create project_name**
+**Create new vuejs project:**
+- *vue create project_name*
 
-#### Please pick a preset:
-**Choose Manually Select Features**
+**Please pick a preset:**
+- *Choose Manually Select Features*
 
-#### Select the Features:
-**Choose Manually Select Features**
+**Select the Features:**
+- *Choose Manually Select Features*
 
-#### Select the Dependencies you want to install:
-**Babel, Router, CSS Pre-processor**
+**Select the Dependencies you want to install:**
+- *Babel, Router, CSS Pre-processor*
 
-#### Choose vue version:
-**Select Vue 3**
+**Choose vue version:**
+- *Select Vue 3*
 
-#### Pich a linter/formatter config:
-**Select Eslint with Error Prevention Only**
+**Pich a linter/formatter config:**
+- *Select Eslint with Error Prevention Only*
 
-#### Running Vuejs Project:
-**npm run serve**
+**Running Vuejs Project:**
+- *npm run serve*
 
 *Finally all step's are done, Thank you*
