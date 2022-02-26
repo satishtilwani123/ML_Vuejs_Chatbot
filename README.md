@@ -7,7 +7,6 @@
 - *py -m venv venv*
 
 **Activate virtual environment:**
-```
 - *venv\Scripts\activate*
 
 **Install Flask:**
