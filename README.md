@@ -3,7 +3,7 @@
 
 ## Command's needed to run FLASK API:
 
-#### Create virtual environment:
+**Create virtual environment:**
 **py -m venv venv**
 
 #### Activate virtual environment:
