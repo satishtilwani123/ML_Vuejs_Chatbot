@@ -59,7 +59,7 @@
 **Pich a linter/formatter config:**
 - *Select Eslint with Error Prevention Only*
 
-**Running Vuejs Project:**
-- *npm run serve*
+**Add node_modules**
+- *Copy node_modules folder form (current installed project) & paste it inside our project/ml_project directory.*
 
 *Finally all step's are done, Thank you*
